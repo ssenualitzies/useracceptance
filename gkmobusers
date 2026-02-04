@@ -5,7 +5,7 @@
   },
   "whitelist": {
     "ids": [],
-    "usernames": [""]
+    "usernames": []
   },
   "blacklist": {
     "ids": [5697712506],
