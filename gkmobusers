@@ -4,11 +4,11 @@
     "usernames": ["mariofreak672"]
   },
   "whitelist": {
-    "ids": [5697712506],
-    "usernames": ["XxANG3L1xX"]
+    "ids": [5697712506,9013946229],
+    "usernames": ["XxANG3L1xX","d1scripter1"]
   },
   "blacklist": {
-    "ids": [9013946229],
-    "usernames": ["d1scripter1"]
+    "ids": [],
+    "usernames": []
   }
 }
